@@ -3,6 +3,8 @@ MoneyShooting
 
 mining the data from the internet to get the information that can make the bussiness more efficient
 
+http record : WebDriver 
+
 books : <社交网站的数据挖掘与分析>
 
 basic tools :
